@@ -1,0 +1,4 @@
+fuente;descripcion;frecuencia_actualizacion;volumen_diario_registros;registra_inicio_viaje;registra_fin_viaje;duplicados_detectados;errores_digitacion;reintenta_envio_sin_senal;
+App movil VeloBog;Evento generado cuando el usuario desbloquea la bicicleta desde el celular;tiempo real;4820;SI;NO;bajo;no;no;
+Candados IoT;Telemetria del candado electronico de cada bicicleta;tiempo real;9160;SI;SI;alto;no;SI;
+Excel de Operaciones;Planilla que la coordinadora diligencia manualmente al cierre del dia;1 vez al dia;410;SI;SI;bajo;si.;no;
